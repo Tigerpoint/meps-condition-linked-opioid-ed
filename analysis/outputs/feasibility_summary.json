@@ -1,0 +1,29 @@
+{
+  "status": "stop_and_redesign_before_modeling",
+  "decision": "The approved four-category opioid/nonopioid design is nonviable for the prespecified equity analysis after four-panel expansion. The binary any-opioid versus no-opioid fallback has adequate overall counts; the prespecified two-level poverty interaction is adequately sized and a three-level sensitivity is also reported as a candidate redesign and requires Judge approval before modeling.",
+  "eligible_n": 4468,
+  "year2_ed_positive": 1042,
+  "year2_ed_visits": 1658,
+  "hc036_matches": 4468,
+  "hc036_universe_matches": 41427,
+  "positive_weight_universe_n": 41427,
+  "narrow_all_gates_pass": false,
+  "broad_all_gates_pass": false,
+  "binary_basic_gates_pass": true,
+  "binary_poverty_2_gates_pass": true,
+  "binary_poverty_3_gates_pass": true,
+  "source_panels": [
+    22,
+    23,
+    25,
+    26
+  ],
+  "source_year_pairs": [
+    "2017-2018",
+    "2018-2019",
+    "2020-2021",
+    "2021-2022"
+  ],
+  "pandemic_sensitivity": "Exclude Panel 25 (2020 exposure year).",
+  "person_level_outputs_written": false
+}

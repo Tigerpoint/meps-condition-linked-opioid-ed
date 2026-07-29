@@ -1,0 +1,15 @@
+# MEPS source data is never committed - fetch it with scripts/fetch_meps_data.ps1
+*.dta
+*.ssp
+*.dat
+_zips/
+
+# Temporary person-level modeling table (written outside the repo, deleted on success)
+model_input.csv
+
+# Python / R cruft
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/

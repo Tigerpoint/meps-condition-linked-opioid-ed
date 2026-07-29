@@ -1,0 +1,20 @@
+{
+  "r_version": "R version 4.6.1 (2026-06-24 ucrt)",
+  "python_version": "Python 3.10.9",
+  "platform": "x86_64-w64-mingw32",
+  "packages": {
+    "survey": "4.5",
+    "readr": "2.2.0",
+    "dplyr": "1.2.1",
+    "tidyr": "1.3.2",
+    "ggplot2": "4.0.3",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.39"
+  },
+  "survey_lonely_psu_option": "adjust",
+  "model_input_md5": "a29582be695f8468a1f63fd23db665a2",
+  "model_input_sha256": "e0ca3e7ed35c28249154a21313e3b094c25e9a5ca179d2102cc036707f732029",
+  "python_script_sha256": "35f9f16e07e1ab15277e025c390549bf2c8b044ba813ad9eb8411ed87a243168",
+  "r_script_sha256": "50a3c4a65c0e0657e773604eaed47750bab69d764901b235805702cfd5cb396f",
+  "person_level_output_in_workspace": false
+}

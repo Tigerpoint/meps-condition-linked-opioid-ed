@@ -1,0 +1,27 @@
+key,metric,value,threshold,pass
+RELIABILITY_UNIVERSE_N,Positive-weight pooled universe N,41427,41427,TRUE
+RELIABILITY_ELIGIBLE_N,Eligible N,4468,4468,TRUE
+RELIABILITY_ANALYSIS_N,Complete-case model N,4454,,TRUE
+RELIABILITY_COMPLETE_CASE_LOSS_PCT,Complete-case loss percent,0.3133393017009848,5,TRUE
+RELIABILITY_FULL_STRATA,Full design strata,117,,TRUE
+RELIABILITY_FULL_PSU_UNITS,Full stratum-PSU units,400,,TRUE
+RELIABILITY_FULL_DESIGN_DF,Full design degrees of freedom,283,100,TRUE
+RELIABILITY_ANALYSIS_DESIGN_DF,Analysis design degrees of freedom,261,100,TRUE
+RELIABILITY_LONELY_STRATA,Lonely strata,0,0,TRUE
+M1_DIAG_DISPERSION,Quasi-Poisson dispersion,1.5521865262669459,,TRUE
+M1_DIAG_ZERO_PROPORTION_UNWEIGHTED,Zero proportion unweighted,0.7667265379434216,,TRUE
+M1_DIAG_ZERO_PROPORTION_WEIGHTED,Zero proportion weighted,0.7834475624548902,,TRUE
+M1_DIAG_CONDITION_NUMBER,Model-matrix condition number,23.246215884457236,1000,TRUE
+M1_DIAG_PARAMETER_COUNT,M1 parameter count,32,,TRUE
+M1_DIAG_ED_POSITIVE_PER_PARAMETER,ED-positive per M1 parameter,32.46875,10,TRUE
+M1_DIAG_WEIGHT_MAX_TO_MEDIAN,Maximum-to-median sampling weight ratio,11.832310737289323,,TRUE
+M1_DIAG_CONVERGED,M1 convergence,1,1,TRUE
+M2_DIAG_CONVERGED,M2 convergence,1,1,TRUE
+M3_DIAG_CONVERGED,M3 convergence,1,1,TRUE
+M1_DIAG_MIN_LEVEL_N,Minimum unweighted N across main-model categorical levels,210,50,TRUE
+M1_DIAG_MIN_LEVEL_ED_POSITIVE,Minimum ED-positive N across main-model categorical levels,44,30,TRUE
+M1_DIAG_CALIBRATION_OVERALL,Overall observed-minus-predicted mean includes zero,-1.2619999531206455e-13,0,TRUE
+M1_DIAG_CALIBRATION_BY_EXPOSURE,Exposure-specific observed-minus-predicted means include zero,1.3644600484468295e-13,0,TRUE
+M1_DIAG_CALIBRATION_PREDICTION_GROUPS,Prediction-group observed-minus-predicted means include zero,0.06276349646560477,0,TRUE
+M1_DIAG_CALIBRATION_INTERCEPT,Calibration intercept includes zero,-3.6443091359063467e-13,0,TRUE
+M1_DIAG_CALIBRATION_SLOPE,Calibration slope includes one,1.0000000000001812,1,TRUE

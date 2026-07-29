@@ -1,0 +1,16 @@
+scheme,gate,observed,threshold,pass
+narrow,total_n_at_least_1000,4468,1000,True
+narrow,minimum_category_n_at_least_100,100,100,True
+narrow,minimum_category_ed_positive_at_least_30,27,30,False
+narrow,minimum_treatment_x_poverty_2_cell_at_least_50,32,50,False
+broad,total_n_at_least_1000,4468,1000,True
+broad,minimum_category_n_at_least_100,135,100,True
+broad,minimum_category_ed_positive_at_least_30,34,30,True
+broad,minimum_treatment_x_poverty_2_cell_at_least_50,39,50,False
+binary,minimum_binary_category_n_at_least_100,820,100,True
+binary,minimum_binary_category_ed_positive_at_least_30,195,30,True
+binary,minimum_binary_x_poverty_5_cell_at_least_50,41,50,False
+binary,minimum_binary_x_poverty_3_cell_at_least_50,223,50,True
+binary,minimum_binary_x_poverty_3_ed_positive_at_least_30,56,30,True
+binary,minimum_binary_x_poverty_2_cell_at_least_50,252,50,True
+binary,minimum_binary_x_poverty_2_ed_positive_at_least_30,81,30,True

@@ -1,0 +1,5 @@
+panel,year1,year2,longitudinal_records,complete_panel_adults,inpatient_surgical_events,emergency_room_surgical_events,outpatient_surgical_events,office_based_surgical_events,all_surgical_event_rows,unique_surgical_events,persons_with_surgical_event,surgical_condition_links,persons_with_linked_surgical_condition,condition_links_matching_condition_puf,condition_link_match_percent,eligible_complete_adults,persons_with_linked_rx,linked_rx_rows,year2_ed_positive,year2_ed_visits,eligible_longitudinal_weight_millions
+22,2017,2018,14541,10258,521,186,906,2117,3730,3730,2016,2527,1825,2527,100.0,1507,900,5003,345,529,34.624681
+23,2018,2019,14067,10084,542,166,922,2442,4072,4072,2069,2506,1832,2506,100.0,1481,887,4650,359,590,33.772655
+25,2020,2021,6078,4599,244,84,614,1244,2186,2186,1045,1273,923,1273,100.0,646,419,2036,145,227,31.359166
+26,2021,2022,6741,5193,303,98,640,1438,2479,2479,1243,1466,1089,1466,100.0,834,508,2382,193,312,34.064124

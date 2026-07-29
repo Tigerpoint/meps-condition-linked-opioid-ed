@@ -50,6 +50,12 @@ data.
 | `research/meps_variable_dictionary.md` | Variable and Multum class crosswalk |
 | `research/data_inventory.md` | Input file inventory |
 | `research/reporting_checklist.md` | STROBE/RECORD reporting map |
+
+The protocol and deviation log are reproduced verbatim from the analysis
+project and contain a small number of relative links to internal working
+documents that are not part of this repository. Those links will not resolve
+here; the documents they point to are decision records, not inputs to the
+analysis, and nothing in the pipeline depends on them.
 | `scripts/fetch_meps_data.ps1` | Downloads and hash-verifies all MEPS inputs |
 | `VERIFICATION.md` | Independent reproduction and provenance evidence |
 

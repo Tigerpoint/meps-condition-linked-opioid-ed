@@ -1,5 +1,7 @@
 # Condition-Linked Opioid Prescriptions and Subsequent Emergency Department Use
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21693654.svg)](https://doi.org/10.5281/zenodo.21693654)
+
 Analysis code, protocol, and aggregate results for a longitudinal Medical
 Expenditure Panel Survey (MEPS) study of condition-linked opioid prescriptions
 and year-2 emergency department (ED) use among United States adults with
@@ -197,11 +199,20 @@ used no restricted-access data.
 
 These are author decisions and are intentionally unresolved:
 
+- [x] ~~Mint a DOI.~~ Archived on Zenodo. **Concept DOI
+      [10.5281/zenodo.21693654](https://doi.org/10.5281/zenodo.21693654)** always
+      resolves to the latest version; cite this one rather than a version-specific
+      DOI so future releases do not strand the citation.
 - [ ] **Choose and add a LICENSE.** Without one, default copyright applies and
       others cannot legally reuse the code. MIT or Apache-2.0 for code, CC-BY-4.0
       for documentation, are common choices.
 - [ ] Add author names, affiliations, ORCIDs, and a corresponding contact.
-- [ ] Mint a DOI. GitHub alone is not a persistent archive; enable the Zenodo
-      integration and cut a release, then put the resulting DOI in the
-      manuscript's data-availability statement.
 - [ ] Add the manuscript DOI once published.
+
+## Citation
+
+Until the manuscript is published, cite the archived software record:
+
+> *[Author names]*. Condition-linked opioid prescriptions and subsequent
+> emergency department use: analysis code and aggregate results (v1.0.0).
+> Zenodo. https://doi.org/10.5281/zenodo.21693654
